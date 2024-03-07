@@ -1,1 +1,44 @@
-
+{
+  "categories": [
+    {
+      "name": "1 - Inspector Gadget",
+      "id": "1"
+    },
+    {
+      "name": "2 - Let's Go to the Zoo!",
+      "id": "2"
+    },
+    {
+      "name": "3 - Fashion Can Do Anything!",
+      "id": "3"
+    },
+    {
+      "name": "4 - Family Is Forever!",
+      "id": "4"
+    },
+    {
+      "name": "5 - Art Has No Rules!",
+      "id": "5"
+    },
+    {
+      "name": "6 - From Head to Toe",
+      "id": "6"
+    },
+    {
+      "name": "7 - Let's Get Down to Business!",
+      "id": "7"
+    },
+    {
+      "name": "8 - You're Under Arrest!",
+      "id": "8"
+    },
+    {
+      "name": "9 - The Law Is the Law!",
+      "id": "9"
+    },
+    {
+      "name": "10 - Mother Nature",
+      "id": "10"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "words": [
+    {
+      "word_de": "Mann",
+      "word_ar": "رجل",
+      "example_de": "Der Mann ging die Straße entlang.",
+      "example_ar": "كان الرجل يسيير في الشارع."
+    },
+    {
+      "word_de": "Frau",
+      "word_ar": "امرأة",
+      "example_de": "Die Frau liest ein Buch im Park.",
+      "example_ar": "الامرأة تقرأ كتابًا في الحديقة."
+    },
+    {
+      "word_de": "Junge",
+      "word_ar": "ولد",
+      "example_de": "Der Junge spielt mit seinem Spielzeugauto.",
+      "example_ar": "الولد يلعب بسيارته اللعبة."
+    },
+    {
+      "word_de": "Mädchen",
+      "word_ar": "فتاة",
+      "example_de": "Das Mädchen fährt mit ihrem Fahrrad im Park.",
+      "example_ar": "الفتاة تركب دراجتها في الحديقة."
+    },
+    {
+      "word_de": "Freund",
+      "word_ar": "صديق",
+      "example_de": "Er ist mein bester Freund.",
+      "example_ar": "إنه صديقي الأفضل."
+    },
+    {
+      "word_de": "Freund",
+      "word_ar": "صديق (ذكر)",
+      "example_de": "Sie geht heute Abend mit ihrem Freund aus.",
+      "example_ar": "هي ذاهبة للخارج مع صديقها الليلة."
+    },
+    {
+      "word_de": "Freundin",
+      "word_ar": "صديقة",
+      "example_de": "Er trifft sich mit seiner Freundin zum Mittagessen.",
+      "example_ar": "هو يلتقي بصديقته لتناول الغداء."
+    },
+    {
+      "word_de": "Person",
+      "word_ar": "شخص",
+      "example_de": "Jede Person hat ihre eigene Geschichte.",
+      "example_ar": "كل شخص لديه قصته الخاصة."
+    },
+    {
+      "word_de": "Leute",
+      "word_ar": "أشخاص",
+      "example_de": "Der Park war voller Leute, die die Sonne genossen.",
+      "example_ar": "كانت الحديقة مليئة بالأشخاص يستمتعون بأشعة الشمس."
+    },
+    {
+      "word_de": "Erwachsener",
+      "word_ar": "بالغ",
+      "example_de": "Als Erwachsener haben Sie bestimmte Verantwortlichkeiten.",
+      "example_ar": "كبالغ، لديك مسؤوليات معينة."
+    },
+    {
+      "word_de": "Baby",
+      "word_ar": "طفل",
+      "example_de": "Das Baby schläft friedlich.",
+      "example_ar": "الطفل نائم بسلام."
+    }
+  ]
+}

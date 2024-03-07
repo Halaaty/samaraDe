@@ -1,0 +1,106 @@
+{
+  "words": [
+    {
+      "word_de": "hallo",
+      "word_ar": "مرحبًا",
+      "example_de": "Hallo, wie geht es dir?",
+      "example_ar": "مرحبًا، كيف حالك؟"
+    },
+    {
+      "word_de": "auf Wiedersehen",
+      "word_ar": "وداعًا",
+      "example_de": "Sie winkte zum Abschied, als der Zug aus dem Bahnhof fuhr.",
+      "example_ar": "لوحت وداعًا حينما انطلق القطار من المحطة."
+    },
+    {
+      "word_de": "hi",
+      "word_ar": "مرحبًا",
+      "example_de": "Hallo, schön dich kennenzulernen!",
+      "example_ar": "مرحبًا، سررت بلقائك!"
+    },
+    {
+      "word_de": "tschüss",
+      "word_ar": "وداعًا",
+      "example_de": "Okay, tschüss für jetzt. Bis später!",
+      "example_ar": "حسنًا، وداعًا الآن. أراك لاحقًا!"
+    },
+    {
+      "word_de": "guten Morgen",
+      "word_ar": "صباح الخير",
+      "example_de": "Guten Morgen, es ist ein schöner Tag!",
+      "example_ar": "صباح الخير، إنه يوم جميل!"
+    },
+    {
+      "word_de": "guten Tag",
+      "word_ar": "طاب مساؤك",
+      "example_de": "Guten Tag, wie kann ich Ihnen heute helfen?",
+      "example_ar": "طاب مساؤك، كيف يمكنني مساعدتك اليوم؟"
+    },
+    {
+      "word_de": "guten Abend",
+      "word_ar": "مساء الخير",
+      "example_de": "Guten Abend, kann ich Ihre Bestellung aufnehmen?",
+      "example_ar": "مساء الخير، هل يمكنني تسجيل طلبك؟"
+    },
+    {
+      "word_de": "gute Nacht",
+      "word_ar": "تصبح على خير",
+      "example_de": "Ich gehe schlafen. Gute Nacht, alle zusammen!",
+      "example_ar": "أنا ذاهب للنوم. تصبحون على خير، الجميع!"
+    },
+    {
+      "word_de": "danke",
+      "word_ar": "شكرًا لك",
+      "example_de": "Danke für deine Hilfe!",
+      "example_ar": "شكرًا لمساعدتك!"
+    },
+    {
+      "word_de": "danke",
+      "word_ar": "شكرًا",
+      "example_de": "Vielen Dank für das Geburtstagsgeschenk!",
+      "example_ar": "شكرًا جزيلاً على هدية عيد الميلاد!"
+    },
+    {
+      "word_de": "bitte",
+      "word_ar": "من فضلك",
+      "example_de": "Kannst du mir bitte das Salz reichen?",
+      "example_ar": "هل يمكنك تمرير الملح إليّ، من فضلك؟"
+    },
+    {
+      "word_de": "OK",
+      "word_ar": "حسنًا",
+      "example_de": "OK, lass uns mit dem Plan fortfahren.",
+      "example_ar": "حسنًا، لنتابع بالخطة."
+    },
+    {
+      "word_de": "ja",
+      "word_ar": "نعم",
+      "example_de": "Ja, ich hätte gerne eine Tasse Tee, bitte.",
+      "example_ar": "نعم، أريد فنجانًا من الشاي، من فضلك."
+    },
+    {
+      "word_de": "nein",
+      "word_ar": "لا",
+      "example_de": "Nein danke, ich bin nicht interessiert.",
+      "example_ar": "لا، شكرًا. لست مهتمًا."
+    },
+    {
+      "word_de": "entschuldigung",
+      "word_ar": "آسف",
+      "example_de": "Es tut mir leid für den Fehler, den ich gemacht habe.",
+      "example_ar": "آسف على الخطأ الذي قمت به."
+    },
+    {
+      "word_de": "willkommen",
+      "word_ar": "أهلاً وسهلاً",
+      "example_de": "Willkommen in unserem Zuhause!",
+      "example_ar": "أهلاً وسهلاً في منزلنا!"
+    },
+    {
+      "word_de": "beenden",
+      "word_ar": "يُنهي",
+      "example_de": "Beende deine Mahlzeit, bevor du gehst.",
+      "example_ar": "انهي وجبتك قبل المغادرة."
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "words": [
+    {
+      "word_de": "Rauchmelder",
+      "word_ar": "كاشف الدخان",
+      "example_de": "Der Rauchmelder ging los, als er Rauch bemerkte.",
+      "example_ar": "انطلق كاشف الدخان عندما شعر بالدخان."
+    },
+    {
+      "word_de": "Toasterofen",
+      "word_ar": "فرن الطهي",
+      "example_de": "Sie hat etwas Brot im Toasterofen getoastet.",
+      "example_ar": "حمصت بعض الخبز في فرن الطهي."
+    },
+    {
+      "word_de": "Radio",
+      "word_ar": "راديو",
+      "example_de": "Sie hörten die Nachrichten im Radio.",
+      "example_ar": "استمعوا إلى الأخبار على الراديو."
+    },
+    {
+      "word_de": "Lautsprecher",
+      "word_ar": "مكبر الصوت",
+      "example_de": "Der Lautsprecher hat den Ton im ganzen Raum projiziert.",
+      "example_ar": "أسقط مكبر الصوت الصوت في جميع أنحاء الغرفة."
+    },
+    {
+      "word_de": "DVD-Player",
+      "word_ar": "مشغل دي في دي",
+      "example_de": "Sie haben sich einen Film auf dem DVD-Player angesehen.",
+      "example_ar": "شاهدوا فيلمًا على مشغل دي في دي."
+    },
+    {
+      "word_de": "Wecker",
+      "word_ar": "منبه",
+      "example_de": "Sie stellte ihren Wecker auf 6 Uhr morgens ein.",
+      "example_ar": "ضبطت منبهها على الساعة 6 صباحًا."
+    },
+    {
+      "word_de": "Klimaanlage",
+      "word_ar": "مكيف هواء",
+      "example_de": "Sie schalteten die Klimaanlage ein, um den Raum abzukühlen.",
+      "example_ar": "شغلوا مكيف الهواء لتبريد الغرفة."
+    },
+    {
+      "word_de": "Telefon",
+      "word_ar": "هاتف",
+      "example_de": "Sie nahm das Telefon ab, als es klingelte.",
+      "example_ar": "أجابت على الهاتف عندما رن."
+    },
+    {
+      "word_de": "Ausrüstung",
+      "word_ar": "معدات",
+      "example_de": "Die Ausrüstung wurde in der Garage aufbewahrt.",
+      "example_ar": "تم تخزين المعدات في المرآب."
+    },
+    {
+      "word_de": "Bügeleisen",
+      "word_ar": "مكواة",
+      "example_de": "Sie hat ihre Kleidung gebügelt, bevor sie zur Arbeit ging.",
+      "example_ar": "كوت كلوتها قبل الذهاب إلى العمل."
+    },
+    {
+      "word_de": "Gerät",
+      "word_ar": "جهاز",
+      "example_de": "Das Gerät hat plötzlich aufgehört zu funktionieren.",
+      "example_ar": "توقف الجهاز فجأة."
+    },
+    {
+      "word_de": "Ventilator",
+      "word_ar": "مروحة",
+      "example_de": "Sie schalteten den Ventilator ein, um den Raum abzukühlen.",
+      "example_ar": "شغلوا المروحة لتبريد الغرفة."
+    },
+    {
+      "word_de": "Haartrockner",
+      "word_ar": "مجفف الشعر",
+      "example_de": "Sie hat ihre Haare mit dem Haartrockner getrocknet.",
+      "example_ar": "جففت شعرها بمجفف الشعر."
+    },
+    {
+      "word_de": "Fernbedienung",
+      "word_ar": "جهاز التحكم عن بعد",
+      "example_de": "Er benutzte die Fernbedienung, um den Kanal zu ändern.",
+      "example_ar": "استخدم جهاز التحكم عن بعد لتغيير القناة."
+    },
+    {
+      "word_de": "Ofen",
+      "word_ar": "فرن",
+      "example_de": "Sie hat Kekse im Ofen gebacken.",
+      "example_ar": "خبزت الكوكيز في الفرن."
+    },
+    {
+      "word_de": "Waschmaschine",
+      "word_ar": "غسالة",
+      "example_de": "Sie hat ihre Kleidung in die Waschmaschine gelegt.",
+      "example_ar": "وضعت ملابسها في الغسالة."
+    },
+    {
+      "word_de": "Leitung",
+      "word_ar": "خط",
+      "example_de": "Sie wartete darauf, dass jemand am Telefon antwortete.",
+      "example_ar": "انتظرت حتى يجيب أحدهم على الخط."
+    },
+    {
+      "word_de": "Kaffeemaschine",
+      "word_ar": "صانع القهوة",
+      "example_de": "Sie hat Kaffee in der Kaffeemaschine gebrüht.",
+      "example_ar": "عملت بعض القهوة في صانع القهوة."
+    },
+    {
+      "word_de": "elektrisch",
+      "word_ar": "كهربائي",
+      "example_de": "Die elektrische Steckdose funktionierte nicht.",
+      "example_ar": "لم يكن المأخذ الكهربائي يعمل."
+    },
+    {
+      "word_de": "Kamera",
+      "word_ar": "كاميرا",
+      "example_de": "Sie hat ein Foto mit ihrer Kamera gemacht.",
+      "example_ar": "أخذت صورة بكاميراها."
+    },
+    {
+      "word_de": "Geschirrspüler",
+      "word_ar": "غسالة صحون",
+      "example_de": "Sie haben das Geschirr in den Geschirrspüler geladen.",
+      "example_ar": "قاموا بتحميل الأطباق في غسالة الصحون."
+    },
+    {
+      "word_de": "System",
+      "word_ar": "نظام",
+      "example_de": "Das Sicherheitssystem wurde letzten Monat installiert.",
+      "example_ar": "تم تثبيت نظام الأمان الشهر الماضي."
+    },
+    {
+      "word_de": "kaputt",
+      "word_ar": "مكسور",
+      "example_de": "Der Fernseher war kaputt und musste repariert werden.",
+      "example_ar": "كان التلفزيون مكسورًا ويحتاج إلى إصلاح."
+    },
+    {
+      "word_de": "Staubsauger",
+      "word_ar": "مكنسة كهربائية",
+      "example_de": "Sie hat mit dem Staubsauger die Teppiche gesaugt.",
+      "example_ar": "كنست السجاد بمكنسة الكهرباء."
+    },
+    {
+      "word_de": "Taschenlampe",
+      "word_ar": "كشاف",
+      "example_de": "Sie hat eine Taschenlampe benutzt, um sich im Dunkeln zurechtzufinden.",
+      "example_ar": "استخدمت كشافًا للعثور على طريقها في الظلام."
+    },
+    {
+      "word_de": "Heizung",
+      "word_ar": "سخان",
+      "example_de": "Sie haben die Heizung eingeschaltet, um den Raum aufzuwärmen.",
+      "example_ar": "شغلوا سخان الغرفة لتدفئتها."
+    },
+    {
+      "word_de": "benutzen",
+      "word_ar": "استخدام",
+      "example_de": "Sie hat den Computer benutzt, um ihren Bericht zu schreiben.",
+      "example_ar": "استخدمت الكمبيوتر لكتابة تقريرها."
+    },
+    {
+      "word_de": "reparieren",
+      "word_ar": "إصلاح",
+      "example_de": "Sie haben einen Techniker angerufen, um das defekte Gerät zu reparieren.",
+      "example_ar": "اتصلوا بفني لإصلاح الجهاز المكسور."
+    },
+    {
+      "word_de": "arbeiten",
+      "word_ar": "عمل",
+      "example_de": "Die Maschine hat plötzlich aufgehört zu arbeiten.",
+      "example_ar": "توقفت الآلة فجأة عن العمل."
+    },
+    {
+      "word_de": "einschalten",
+      "word_ar": "تشغيل",
+      "example_de": "Er hat das Licht eingeschaltet, als es dunkel wurde.",
+      "example_ar": "شغل الضوء عندما غمرت الظلام."
+    },
+    {
+      "word_de": "ausschalten",
+      "word_ar": "إيقاف",
+      "example_de": "Sie hat den Fernseher ausgeschaltet, bevor sie ins Bett gegangen ist.",
+      "example_ar": "أوقفت التلفزيون قبل الذهاب إلى الفراش."
+    }
+  ]
+}

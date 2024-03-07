@@ -1,0 +1,226 @@
+{
+  "words": [
+    {
+      "word_de": "null",
+      "word_ar": "صفر",
+      "example_de": "Die Temperatur draußen beträgt null Grad Celsius.",
+      "example_ar": "درجة الحرارة في الخارج صفر درجة مئوية."
+    },
+    {
+      "word_de": "eins",
+      "word_ar": "واحد",
+      "example_de": "Ich habe eine Schwester.",
+      "example_ar": "لدي أخت واحدة."
+    },
+    {
+      "word_de": "zwei",
+      "word_ar": "اثنان",
+      "example_de": "Es gibt zwei Äpfel auf dem Tisch.",
+      "example_ar": "هناك تفاحتان على الطاولة."
+    },
+    {
+      "word_de": "drei",
+      "word_ar": "ثلاثة",
+      "example_de": "Er hat drei Katzen.",
+      "example_ar": "لديه ثلاث قطط."
+    },
+    {
+      "word_de": "vier",
+      "word_ar": "أربعة",
+      "example_de": "Sie kaufte vier Bücher aus dem Buchladen.",
+      "example_ar": "اشترت أربعة كتب من المكتبة."
+    },
+    {
+      "word_de": "fünf",
+      "word_ar": "خمسة",
+      "example_de": "Es gibt fünf Personen im Raum.",
+      "example_ar": "هناك خمسة أشخاص في الغرفة."
+    },
+    {
+      "word_de": "sechs",
+      "word_ar": "ستة",
+      "example_de": "Er beendete das Rennen in sechs Minuten.",
+      "example_ar": "أنهى السباق في ستة دقائق."
+    },
+    {
+      "word_de": "sieben",
+      "word_ar": "سبعة",
+      "example_de": "Sie hat sieben Geschwister.",
+      "example_ar": "لديها سبعة إخوة."
+    },
+    {
+      "word_de": "acht",
+      "word_ar": "ثمانية",
+      "example_de": "Es gibt acht Stühle um den Tisch.",
+      "example_ar": "هناك ثمانية كراسي حول الطاولة."
+    },
+    {
+      "word_de": "neun",
+      "word_ar": "تسعة",
+      "example_de": "Sie erhielt neun Rosen zu ihrem Geburtstag.",
+      "example_ar": "تلقت تسع ورود في عيد ميلادها."
+    },
+    {
+      "word_de": "zehn",
+      "word_ar": "عشرة",
+      "example_de": "Es gibt zehn Finger an unseren Händen.",
+      "example_ar": "هناك عشرة أصابع في يدينا."
+    },
+    {
+      "word_de": "elf",
+      "word_ar": "أحد عشر",
+      "example_de": "Er wurde am elften Mai geboren.",
+      "example_ar": "ولد في الحادي عشر من مايو."
+    },
+    {
+      "word_de": "zwölf",
+      "word_ar": "اثنا عشر",
+      "example_de": "Es gibt zwölf Monate im Jahr.",
+      "example_ar": "هناك اثنا عشر شهرًا في السنة."
+    },
+    {
+      "word_de": "dreizehn",
+      "word_ar": "ثلاثة عشر",
+      "example_de": "Sie wurde letzte Woche dreizehn.",
+      "example_ar": "احتفلت بعيد ميلادها الثالث عشر الأسبوع الماضي."
+    },
+    {
+      "word_de": "vierzehn",
+      "word_ar": "أربعة عشر",
+      "example_de": "Er ist vierzehn Jahre alt.",
+      "example_ar": "عمره أربعة عشر عامًا."
+    },
+    {
+      "word_de": "fünfzehn",
+      "word_ar": "خمسة عشر",
+      "example_de": "Sie ist fünfzehn Jahre alt.",
+      "example_ar": "عمرها خمسة عشر عامًا."
+    },
+    {
+      "word_de": "sechzehn",
+      "word_ar": "ستة عشر",
+      "example_de": "Er wird nächsten Monat sechzehn.",
+      "example_ar": "سيبلغ عندما يتحول إلى السادس عشر الشهر المقبل."
+    },
+    {
+      "word_de": "siebzehn",
+      "word_ar": "سبعة عشر",
+      "example_de": "Sie ist siebzehn Jahre alt.",
+      "example_ar": "عمرها سبعة عشر عامًا."
+    },
+    {
+      "word_de": "achtzehn",
+      "word_ar": "ثمانية عشر",
+      "example_de": "Er wird nächstes Jahr achtzehn.",
+      "example_ar": "سيكون في الثامنة عشرة العام المقبل."
+    },
+    {
+      "word_de": "neunzehn",
+      "word_ar": "تسعة عشر",
+      "example_de": "Sie wurde letzten Monat neunzehn.",
+      "example_ar": "احتفلت بعيد ميلادها التاسع عشر الشهر الماضي."
+    },
+    {
+      "word_de": "zwanzig",
+      "word_ar": "عشرون",
+      "example_de": "Es gibt zwanzig Schüler im Klassenzimmer.",
+      "example_ar": "هناك عشرون طالبًا في الفصل."
+    },
+    {
+      "word_de": "einundzwanzig",
+      "word_ar": "واحد وعشرون",
+      "example_de": "Sie ist einundzwanzig Jahre alt.",
+      "example_ar": "عمرها واحد وعشرون عامًا."
+    },
+    {
+      "word_de": "dreißig",
+      "word_ar": "ثلاثون",
+      "example_de": "Er wird nächstes Jahr dreißig Jahre alt.",
+      "example_ar": "سيبلغ الثلاثين عامًا العام المقبل."
+    },
+    {
+      "word_de": "zweiunddreißig",
+      "word_ar": "اثنان وثلاثون",
+      "example_de": "Der Marathon ist zweiunddreißig Kilometer lang.",
+      "example_ar": "الماراثون طوله اثنان وثلاثون كيلومترًا."
+    },
+    {
+      "word_de": "vierzig",
+      "word_ar": "أربعون",
+      "example_de": "Sie ist in den Vierzigern.",
+      "example_ar": "هي في أربعينياتها."
+    },
+    {
+      "word_de": "dreiundvierzig",
+      "word_ar": "ثلاثة وأربعون",
+      "example_de": "Er ist dreiundvierzig Jahre alt.",
+      "example_ar": "عمره ثلاثة وأربعون عامًا."
+    },
+    {
+      "word_de": "fünfzig",
+      "word_ar": "خمسون",
+      "example_de": "Sie wurde letztes Jahr fünfzig.",
+      "example_ar": "احتفلت بعيد ميلادها الخمسين العام الماضي."
+    },
+    {
+      "word_de": "vierundfünfzig",
+      "word_ar": "أربعة وخمسون",
+      "example_de": "Er ist vierundfünfzig Jahre alt.",
+      "example_ar": "عمره أربعة وخمسون عامًا."
+    },
+    {
+      "word_de": "sechzig",
+      "word_ar": "ستون",
+      "example_de": "Sie wird in den Ruhestand gehen, wenn sie sechzig wird.",
+      "example_ar": "ستتقاعد عندما تبلغ الستين."
+    },
+    {
+      "word_de": "fünfundsechzig",
+      "word_ar": "خمسة وستون",
+      "example_de": "Er ist fünfundsechzig Jahre alt.",
+      "example_ar": "عمره خمسة وستين عامًا."
+    },
+    {
+      "word_de": "siebzig",
+      "word_ar": "سبعون",
+      "example_de": "Sie wird nächsten Jahr ihren siebzigsten Geburtstag feiern.",
+      "example_ar": "ستحتفل بعيد ميلادها السبعون العام المقبل."
+    },
+    {
+      "word_de": "sechsundsiebzig",
+      "word_ar": "ستة وسبعون",
+      "example_de": "Er ist sechsundsiebzig Jahre alt.",
+      "example_ar": "عمره سبعة وستين عامًا."
+    },
+    {
+      "word_de": "achtzig",
+      "word_ar": "ثمانون",
+      "example_de": "Sie wird nächstes Jahr achtzig Jahre alt.",
+      "example_ar": "ستبلغ الثمانين عامًا العام المقبل."
+    },
+    {
+      "word_de": "siebenundachtzig",
+      "word_ar": "سبعة وثمانون",
+      "example_de": "Er ist siebenundachtzig Jahre alt.",
+      "example_ar": "عمره سبعة وثمانون عامًا."
+    },
+    {
+      "word_de": "neunzig",
+      "word_ar": "تسعون",
+      "example_de": "Sie wird nächsten Monat neunzig.",
+      "example_ar": "ستبلغ تسعين عامًا الشهر المقبل."
+    },
+    {
+      "word_de": "achtundneunzig",
+      "word_ar": "ثمانية وتسعون",
+      "example_de": "Er ist achtundneunzig Jahre alt.",
+      "example_ar": "عمره ثمانية وتسعون عامًا."
+    },
+    {
+      "word_de": "hundert",
+      "word_ar": "مئة",
+      "example_de": "Es gibt hundert Personen im Raum.",
+      "example_ar": "هناك مائة شخص في الغرفة."
+    }
+  ]
+}
